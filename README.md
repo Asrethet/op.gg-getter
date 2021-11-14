@@ -1,6 +1,8 @@
 # op.gg-getter
 
 Auf den letzten Release klicken und dann die Soruce Code Zip runterladen
+
+
 Das Skript öffnet die 2 Team Opggs von einer gegeben Playerseites eines Matches auf Toornament
 
 So wie hier:
